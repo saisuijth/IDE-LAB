@@ -39,7 +39,7 @@ Hello FELIPE!
 Hello MARIA!
 Hello BILL!
 
-var names = new List<string> { "Srilekha", "Ana", "Felipe" };
+var names = new List<string> { "Sujith", "Ana", "Felipe" };
 foreach (var name in names)
 {
   Console.WriteLine($"Hello {name.ToUpper()}!");
@@ -72,7 +72,7 @@ The list has 4 people in it
 
 Task 3:
 
-var names = new List<string> { "Srilekha", "Ana", "Felipe" };
+var names = new List<string> { "Sujith", "Ana", "Felipe" };
 foreach (var name in names)
 {
   Console.WriteLine($"Hello {name.ToUpper()}!");
